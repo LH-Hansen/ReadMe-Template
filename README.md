@@ -19,7 +19,7 @@ A template for readme files for future projects!!
 - [Dependencies](#-dependencies)
 - [API Documentation](#-api-documentation)
 - [Versioning & Changelog](#-versioning-&-changelog)
-- [TODO](#-todo)
+- [TODO](#-todo-list)
 - [Known Issues](#-known-issues)
 - [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
