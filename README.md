@@ -38,7 +38,7 @@ A nice introduction to the project.
 
 <br>
 
-## 🌟 Feature
+## 🌟 Features
 
 [List the key features of your project.]
 
@@ -241,7 +241,7 @@ The base URL for all API requests is:
 
 <br>
 
-## 📋 Versioning/Changelog
+## 📋 Versioning & Changelog
 
 ### Current Version
 
