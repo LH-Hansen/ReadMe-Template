@@ -7,6 +7,7 @@ A template for readme files for future projects!!
 - [Introduction](#introduction)
 - [Features](#features)
 - [Future Plans](#future-plans)
+- [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -55,9 +56,22 @@ We have several exciting features and improvements planned for the upcoming vers
 
 <br>
 
+## 🖥️System requirements
+
+| **Category**          | **Requirements**                                                              |
+|-----------------------|-------------------------------------------------------------------------------|
+| **Operating System**   | - Windows 10 or later <br> - macOS 10.15 (Catalina) or later <br> - Ubuntu 18.04+ |
+| **Processor**          | 2 GHz dual-core or higher                                                     |
+| **Memory**             | 4 GB RAM (8 GB recommended)                                                   |
+| **Storage**            | 500 MB of available space (depends on project size)                           |
+| **Software**           | - Node.js v14.x or later <br> - npm v6.x or later <br> - Database: MongoDB/MySQL/PostgreSQL |
+| **Additional Tools**   | - Git (for version control) <br> - Docker (optional, for containerized setup) |
+
+<br>
+
 ## 📦 Installation
 
-## Windows
+### Windows
 
 To install the project, clone the repository and install the necessary dependencies:
 
