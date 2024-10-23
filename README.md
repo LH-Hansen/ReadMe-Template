@@ -4,27 +4,27 @@ A template for readme files for future projects!!
 ## Table of Contents
 
 ### Getting Started
-- [Introduction](#introduction)
-- [Features](#features)
-- [Future Plans](#future-plans)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [FAQs](#faqs)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Future Plans](#-future-plans)
+- [System Requirements](#-system-requirements)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [FAQs](#-faqs)
 
 ### Technical Details
-- [Diagrams](#diagrams)
-- [Framework](#framework)
-- [Dependencies](#dependencies)
-- [API Documentation](#api-documentation)
-- [Versioning & Changelog](#versioning-&-changelog)
-- [TODO](#todo)
-- [Known Issues](#known-issues)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Contact](#contact)
+- [Diagrams](#-diagrams)
+- [Framework](#-framework)
+- [Dependencies](#-dependencies)
+- [API Documentation](#-api-documentation)
+- [Versioning & Changelog](#-versioning-&-changelog)
+- [TODO](#-todo)
+- [Known Issues](#-known-issues)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
+- [License](#-license)
+- [Contact](#-contact)
 
 <br>
 
@@ -56,7 +56,7 @@ We have several exciting features and improvements planned for the upcoming vers
 
 <br>
 
-## 🖥️System requirements
+## 🖥️ System requirements
 
 | **Category**          | **Requirements**                                                              |
 |-----------------------|-------------------------------------------------------------------------------|
