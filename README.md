@@ -18,7 +18,7 @@ A template for readme files for future projects!!
 - [Framework](#-framework)
 - [Dependencies](#-dependencies)
 - [API Documentation](#-api-documentation)
-- [Versioning & Changelog](#-versioning-&-changelog)
+- [Versioning & Changelog](#-versioning-and-changelog)
 - [TODO](#-todo-list)
 - [Known Issues](#-known-issues)
 - [Contributing](#-contributing)
@@ -241,7 +241,7 @@ The base URL for all API requests is:
 
 <br>
 
-## 📋 Versioning & Changelog
+## 📋 Versioning and Changelog
 
 ### Current Version
 
