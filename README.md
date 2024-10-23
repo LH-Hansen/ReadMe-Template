@@ -311,7 +311,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📫 Contact
 
-Inquiries - [GourmetGuide](mailto:GourmetGuide@proton.me)
+Inquiries - [email](email@email.com)
 
-Project Link: [GourmetGuide](https://github.com/LH-Hansen/GourmetGuide)
+Project Link: [Readme-Template](https://github.com/LH-Hansen/Readme-Template)
 
