@@ -7,7 +7,7 @@ A template for readme files for future projects!!
 - [Introduction](#-introduction)
 - [Features](#-features)
 - [Future Plans](#-future-plans)
-- [System Requirements](#-system-requirements)
+- [System Requirements](#%EF%B8%8F-system-requirements)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Screenshots](#-screenshots)
@@ -15,7 +15,7 @@ A template for readme files for future projects!!
 
 ### Technical Details
 - [Diagrams](#-diagrams)
-- [Framework](#-framework)
+- [Framework](#%EF%B8%8F-framework)
 - [Dependencies](#-dependencies)
 - [API Documentation](#-api-documentation)
 - [Versioning & Changelog](#-versioning-and-changelog)
