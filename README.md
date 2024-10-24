@@ -137,10 +137,10 @@ Feel free to click on the images for a larger view!
 This project is designed to [briefly explain the purpose of the project, its goals, and target audience].
 
 ### 2. How do I install the project?
-To install the project, follow the instructions in the [Installation](#installation) section.
+To install the project, follow the instructions in the [Installation](#-installation) section.
 
 ### 3. How can I contribute to this project?
-We welcome contributions! Please check the [Contributing](#contributing) section for guidelines.
+We welcome contributions! Please check the [Contributing](#-contributing) section for guidelines.
 
 ### 4. What are the system requirements?
 The project requires [list any specific requirements like OS, software, etc.].
